@@ -1,5 +1,4 @@
-# Hi! :wave: 
-**Welcome to my tutorial on Python for user experience researchers.**
+# Hi! :wave: Welcome to my python tutorial for UX researchers
 
 I believe that the core functions of a user researcher are to design research studies, interact with users, and derive insights from those interactions. However, many parts of the user research process are hands-on, time consuming, and not reproducible. These issues are exacerbated as research scales; when researchers want to ask more people more questions, the data can quickly get unwieldy. Researchers may spend the majority of their time on a project doing tasks like cleaning or managing data by hand.
 
