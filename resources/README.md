@@ -1,5 +1,5 @@
-# Resources for the THRIVING Team
-Central spot for all resources related to our data analysis project.
+# Resources
+Central spot for all resources related to your data analysis project.
 
 ## Get Started 
 **Step 1**
@@ -17,5 +17,5 @@ Central spot for all resources related to our data analysis project.
 `tools.pdf`: slide deck from our first module that introduces Anaconda, JupyterLab, and GitHub
 
 ## Other
-`thriving_spring2020`: this is our coding environment file. See `set_up_environments.md` for how to use this file
+`coding_environment.yml`: this is our coding environment file. See `set_up_environments.md` for how to use this file
 
