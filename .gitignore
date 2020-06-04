@@ -1,5 +1,6 @@
 # mac
 .DS_Store
+.RHistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
