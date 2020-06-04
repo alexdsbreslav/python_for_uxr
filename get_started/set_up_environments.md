@@ -5,7 +5,7 @@
 
 **Why create an environment**: When we code, we want to make sure that everyone is using the same packages so that we all encounter and/or avoid the same problems/bugs.
 
-**Add the thriving_spring2020 environment to Anaconda**
+**Add the python_for_uxr_env environment to Anaconda**
 1. Open Anaconda
 2. Open JupyterLab
 3. Open a Terminal window
