@@ -1,5 +1,4 @@
 # Get Anaconda and JupyterLab Set Up to Handle Environments
-**Before you start**: Make sure that you have set up your file directory first. See `set_up_your_file_directory.md` for directions on setting up a proper directory of folders on your local computer.
 
 **What are environments**: When we code, we utilize packages like pandas and numpy to do things for us. When we create a coding environment, we specify exactly what packages are in that environment.  
 
