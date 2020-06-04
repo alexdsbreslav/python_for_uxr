@@ -9,7 +9,7 @@
 2. Open JupyterLab
 3. Open a Terminal window
 4. Type `conda install nb_conda_kernels` and hit enter
-5. Type `conda env create -f /filepath/to/resources/folder`. If you used the default settings when you set up your file directory, the `/filepath/to/resources/folder` should look like this `/Users/alexbreslav/Documents/GitHub/python_for_uxr` where `alexbreslav` is replaced with the username on your computer.
+5. Type `conda env create -f /filepath/to/resources/folder`. If you used the default settings when you set up your file directory, the `/filepath/to/resources/folder` should look like this `/Users/alexbreslav/Documents/GitHub/python_for_uxr/get_started` where `alexbreslav` is replaced with the username on your computer.
 6. Add `/python_for_uxr_env.yml` to the end. The line of code should now read `conda env create -f /filepath/to/resources/folder/python_for_uxr_env.yml`. If it looks correct, hit enter.
 
 NOTE: All of my filepath examples are for Mac; if you are on a PC the slashes are flipped: `\Users\alexbreslav\Documents\Github\resources`
