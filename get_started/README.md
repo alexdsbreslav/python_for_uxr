@@ -8,7 +8,9 @@ Central spot for all resources related to your data analysis project.
 2. Download [GitHub Desktop](https://desktop.github.com/)
 
 **Step 2**  
-Fork this repository.
+NEEDS README
+Get this repository on your computer and synced with your GitHub account.
+Fork this repository to your GitHub, clone it to your computer.
 
 **Step 3**  
 `set_up_environments.md`: directions for how to get Anaconda and JupyterLab set up after you've downloaded everything
