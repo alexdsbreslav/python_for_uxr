@@ -1,4 +1,4 @@
-name: thriving_spring2020
+name: python_for_uxr_env
 channels:
   - defaults
 dependencies:
