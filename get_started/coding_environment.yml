@@ -1,0 +1,13 @@
+name: thriving_spring2020
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+  - scipy
+  - pytables
+  - openpyxl
+  - xlrd
