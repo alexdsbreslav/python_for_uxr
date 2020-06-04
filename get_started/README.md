@@ -8,7 +8,7 @@ Central spot for all resources related to your data analysis project.
 2. Download [GitHub Desktop](https://desktop.github.com/)
 
 **Step 2**  
-`set_up_your_file_directory.md`: directions for setting up a proper directory of folders on your local computer
+Fork this repository.
 
 **Step 3**  
 `set_up_environments.md`: directions for how to get Anaconda and JupyterLab set up after you've downloaded everything
