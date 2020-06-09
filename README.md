@@ -8,7 +8,7 @@ Learning Python, or learning how to program in any language, can seem overwhelmi
 
 In this tutorial, I do my best to keep the language, examples, and documentation accessible; I assume that you have zero experience with programmming or quantitative data analysis. I expect that, currently, if you wanted to clean, manipulate, describe, or visualize data that you would use Excel, Google Sheets, or other similar tools.
 
-As a researcher myself, I am also actively researching my own materials and updating them! If you have suggestions, questions, concerns, or sticking points, please let me know @ alexdsbreslav@gmail.com
+As a researcher, I also actively research my own materials! If you have suggestions, questions, concerns, or sticking points, please let me know @ alexdsbreslav@gmail.com
 
 # To get started...
 Head to the get started folder!
