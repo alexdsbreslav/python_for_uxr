@@ -1,4 +1,4 @@
-# Visualize your data
+# Step 6: Visualize your data
 
 :construction_worker: Under constructions... :construction:
 
