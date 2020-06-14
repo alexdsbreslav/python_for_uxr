@@ -24,4 +24,4 @@ This tutorial is a work in progress. I am developing new material and testing ex
 6. Learn how to visualize your data. Visualization is a key step to understanding the features of your data, as well as communicating your findings in a compelling way to stakeholders. 
 
 # To get started...
-Head to the get started folder!
+Head to the folder `step1_download_tools`!
