@@ -8,28 +8,41 @@ Anaconda creates a home for coding on your computer. When you open Anaconda Navi
 ### What is JupyterLab?
 JupyterLab is the application that you will be doing all of your coding in. JupyterLab is an application, which you will use to interact with your data - in this way, JupyterLab is equivalent to Excel. However, JupyterLab is different from Excel in one very important way: in Excel, you make changes to you data by hand; in JupyterLab, you are writing Python code so that your computer will makes changes to the data for you.
 
-## Create a GitHub account :octocat:
-[Click on this link](https://github.com/) to head to GitHub to create an account.
-### Why do I need a GitHub account?
-I want you to download everything on this website on to your computer (it's a bunch of folders, Jupyter Notebooks, and text files).
-
-## Create a copy of this GitHub repo on your computer.
+## Create a copy of this GitHub repo :octocat: on your computer.
 On GitHub, collections of files and folders is a called a repository or **repo**. This repo is called `python_for_uxr`. I want you to download this repo on to your computer. When you do, you'll have a perfect copy of everything that is online. 
 
-To copy this repo to your computer, you'll **fork** it. Fork is just a GitHub word for create a copy on to your computer. 
+To copy this repo to your computer:
+1. Go back out to the `python_for_uxr` home page. You can [click here](https://github.com/alexdsbreslav/python_for_uxr) to open the repo home page in another tab. 
+2. Click on the green `Clone or download` button.
+3. Click `Download ZIP`.
+4. Go to the documents folder on your computer. Double-click on the file `python_for_uxr-master.zip` to unzip it.
+5. Move the file to your desktop.
+6. Rename the folder `python_for_uxr`.
 
+## Set up Anaconda on your computer.
+At this point, you should have downloaded Anaconda and downloaded a copy of the `python_for_uxr` repo on to your computer. Now we need to get Anaconda set up.
 
-**Step 2**  
-NEEDS README
-Get this repository on your computer and synced with your GitHub account.
-Fork this repository to your GitHub, clone it to your computer.
+Remember that Anaconda is the home for coding on your computer. Anaconda does not come with all of the things that you will need for coding. To get your computer totally set up to start coding, we will create a coding **environment**.
 
-**Step 3**  
-`set_up_environments.md`: directions for how to get Anaconda and JupyterLab set up after you've downloaded everything
+### What is an environment?
+When we code, we utilize packages like pandas and numpy (pronounced numb-pie) to do things for us. When we create a coding environment, we specify exactly what packages we want to use while we are coding. I've created the `python_for_uxr_env.yml` file; this is a special kind of file that tells Anaconda what packages to download.
 
-## Presentations
-`tools.pdf`: slide deck from our first module that introduces Anaconda, JupyterLab, and GitHub
+### To set up the environment in Anaconda on your computer...
+1. Open Anaconda
+2. Open JupyterLab
+3. Open a Terminal window
+4. Type `conda install nb_conda_kernels` and hit enter. This line of code updates an important setting in Anaconda. You only need to do this once right after you install Anaconda.
+5. Next we are going to type something **that looks like**:  
+`conda env create -f /Users/alexbreslav/Documents/python_for_uxr/step1_download_tools/python_for_uxr_env.yml`
+    - `conda` says "Anaconda, do this thing".
+    - `env create` says "create an environment".
+    - `-f` says create the environemnt from a file.
+    - `/Users/alexbreslav/.../python_for_uxr_env.yml` is the file path that describes where to find the environment file on **my** computer.
 
-## Other
-`coding_environment.yml`: this is our coding environment file. See `set_up_environments.md` for how to use this file
-
+    - Update/type out the line of code above and hit enter:
+      - Replace `alexdsbreslav` with the username on your computer.
+      - If you are on a PC the slashes are flipped; rather that `/Users/alexdsbreslav...` your file path would look `\Users\alexdsbreslav`
+      - If you put the `python_for_uxr` folder somewhere other than your Documents folder, make sure you specify that in the file path.
+      - If you did not change the name of folder to `python_for_uxr` or changed it to something else entirely, make sure you specify that in the file path.
+  
+6. Close JupyterLab and open it back up again. When you do, you should see the new environment in the Launcher.
