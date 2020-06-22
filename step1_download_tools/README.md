@@ -46,3 +46,6 @@ When we code, we utilize packages like pandas and numpy (pronounced numb-pie) to
       - If you did not change the name of folder to `python_for_uxr` or changed it to something else entirely, make sure you specify that in the file path.
   
 6. Close JupyterLab and open it back up again. When you do, you should see the new environment in the Launcher.
+
+## Step 1 :white_check_mark: :clap:
+Now you have all of the tools that you need and you've done all of the necessary set-up to start coding! You have the power of Python and JupyterLab on your computer, now let's start learning how to code! [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step2_learn_python_basics#step-2-learn-python-basics) to move on to Step 2: Lean Python Basics.
