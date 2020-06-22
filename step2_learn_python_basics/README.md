@@ -1,7 +1,9 @@
 # Step 2: Learn Python Basics
-Now you have downloaded and set up the tools that you will need to code in Python! You have everything that you need to start writing scripts that will save you time and make your life easier. The only thing left to do is learn how to code :smiley:.
+Now you have downloaded and set up the tools that you will need to code in Python! You have everything that you need to start writing scripts that will save you time and make your life easier. 
 
-**Before I send you over to codeacademy,** I want you to do a mental exercise with me.  
+Now that we have the tools, it's time to start learning how to code. The first step towards learning how to code is to learn the basic vocab and rules. I am not going to reinvent the wheel for this; codeacademy has an excellent course on learning Python basics. Their course material is well written, their coding interface is intuitive, and their feedback is instant.
+
+**But before I send you over to codeacademy,** I want you to do a mental exercise with me.  
 By working through this mental exercise, we'll build a fundamental intuition for what it means to code.  
 
 ## Imagine that...
@@ -31,8 +33,10 @@ All done?
 You just wrote code! Explicit directions that effectively explain how to do something (to someone that has never used a computer before) is fundamentally the same thing as code. The only difference is that you wrote your code in a language that humans understand so that a human could execute your code. Here you will learn how to write your directions in a language that a computer understands (Python!) so that a computer can execute your code!
 
 ## Let's learn how to write directions in Python!
-Now it is time to learn the basic vocabulary and grammar that you will need to code in Python. Rather than reinvent the wheel, I am going to send you over to codeacademy to learn the basics. I learned my python basics at codeacademy; they do a wonderful job breaking down the core concepts and providing the tools you need to learn and practice. Learn Python 2 @ codeacademy is free! We will be coding in Python 3 (the newer version) once you return to this tutorial, but Python 2 and 3 are so similar that paying for the Python 3 version isn't really worth it.
+Now it is time to learn the basic vocabulary and grammar that you will need to code in Python. Now, I am going to send you over to codeacademy to learn the basics. I learned my python basics at codeacademy; they do a wonderful job! Learn Python 2 @ codeacademy is free! We will be coding in Python 3 (the newer version) once you return to this tutorial, but Python 2 and 3 are so similar that paying for the Python 3 version isn't really worth it.
 
-Once you have mastered the basic vocabulary and grammar, you'll come back here to start working with your own data in Jupyter Lab. **I would recommend completing lessons 1-10; you do not need to complete lessons 11-12**. Lessons 11 and 12 are less relevant for the kinds of code we will be writing.
+Once you have mastered the basic vocabulary and grammar, you'll come back here to start working with your own data in JupyterLab. **I would recommend completing lessons 1-10; you do not need to complete lessons 11-12**. Lessons 11 and 12 are less relevant for the kinds of code we will be writing.
 
 Click here to head over to [codeacademy](https://www.codecademy.com/learn/learn-python) to get started!
+
+**Good luck, we'll see you back here soon to start working on your own data!**
