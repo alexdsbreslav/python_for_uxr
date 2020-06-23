@@ -22,4 +22,4 @@ You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
 4. When you open the workbook file, you may see a pop-up that says "Select Kernel". A **kernal** is your coding environment. You should select `python_for_uxr_env`. This is the coding environment that you set up in Step 1.
 
 ## When you're done...
-[Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step4_clean_your_data) to head to Step 4: Clean Your Data
+Head to step 4: [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step4_clean_your_data) to see the step 4 instructions online. You can also open up the instructions on your computer by navigating to the `step4_clean_your_data` folder and opening the `offline_README.pdf`
