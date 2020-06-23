@@ -12,7 +12,7 @@ This includes:
 4. Deciphering error messages
 5. Tips on reading documentation
 
-For this step, and from now on, you'll work through workbooks that are Jupyter Notebooks full of instruction and guidance. Please experiment! If you ever wonder "I wonder what this code would do?", try it and see what happens!
+For this step, and from now on, you'll work through workbooks that are Jupyter Notebooks full of instruction and guidance. Please experiment! If you ever wonder "what would happen if I did this?", try it and see what happens! Experimentation, making mistakes, and figuring out what went wrong is a huge part of the learning process.
 
 ## To get started...
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
