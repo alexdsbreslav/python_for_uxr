@@ -19,7 +19,7 @@ As in step 3, you'll work through workbooks that are Jupyter Notebooks full of i
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
 1. Open Anaconda.
 2. Open JupyterLab.
-3. Use the file navigator on the left to find the `workbook.ipynb` in the `step4_clean_your_data` folder.
+3. Use the file navigator on the left to find the `step4_workbook.ipynb` in the `step4_clean_your_data` folder.
 4. When you open the workbook file, you may see a pop-up that says "Select Kernel". A **kernel** is your coding environment. You should select `python_for_uxr_env`. This is the coding environment that you set up in Step 1.
 
 ## When you're done...

@@ -20,9 +20,9 @@ To copy this repo to your computer:
 6. Rename the folder `python_for_uxr`.
 
 ## Set up Anaconda on your computer.
-At this point, you should have downloaded Anaconda and downloaded a copy of the `python_for_uxr` repo on to your computer. Now we need to get Anaconda set up.
+At this point, you should have downloaded Anaconda and downloaded a copy of the `python_for_uxr` repo on to your computer. If you would prefer to read these directions on your computer, you can view them offline! To view these directions offline, navigate to the `step1_download_tools` folder in the `python_for_uxr` repo that you just downloaded onto your computer. Open the `offline_README.pdf` to see these same directions in a PDF on your computer.
 
-Remember that Anaconda is the home for coding on your computer. Anaconda does not come with all of the things that you will need for coding. To get your computer totally set up to start coding, we will create a coding **environment**.
+Now we need to get Anaconda set up. Remember that Anaconda is the home for coding on your computer. Anaconda does not come with all of the things that you will need for coding. To get your computer totally set up to start coding, we will create a coding **environment**.
 
 ### What is an environment?
 When we code, we utilize packages like pandas and numpy (pronounced numb-pie) to do things for us. When we create a coding environment, we specify exactly what packages we want to use while we are coding. I've created the `python_for_uxr_env.yml` file; this is a special kind of file that tells Anaconda what packages to download.
@@ -48,4 +48,5 @@ When we code, we utilize packages like pandas and numpy (pronounced numb-pie) to
 6. Close JupyterLab and open it back up again. When you do, you should see the new environment in the Launcher.
 
 ## Step 1 :white_check_mark: :clap:
-Now you have all of the tools that you need and you've done all of the necessary set-up to start coding! You have the power of Python and JupyterLab on your computer, now let's start learning how to code! [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step2_learn_python_basics#step-2-learn-python-basics) to move on to Step 2: Lean Python Basics.
+Now you have all of the tools that you need and you've done all of the necessary set-up to start coding! You have the power of Python and JupyterLab on your computer, now let's start learning how to code! [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step2_learn_python_basics#step-2-learn-python-basics) to see the step 2 instructions online. You can also open up the instructions on your computer by navigating to the `step2_learning_python_basics` folder and opening the `offline_README.pdf`.
+
