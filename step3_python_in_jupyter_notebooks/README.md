@@ -1,6 +1,6 @@
 # Step 3: Python in Jupyter Notebooks
 Welcome back! At this point you should have completed:
-- Step 1: Download Toosls :white_check_mark:
+- Step 1: Download Tools :white_check_mark:
 - Step 2: Learn Python Basics :white_check_mark:
 
 Good work! :clap: Now we're ready to start coding in in Jupyter Notebooks. Codeacademy was an ideal learning space that offered you immediate feedback on your code, but now you are on your own! This next section goes over essential tools and resources that you will use while you are coding.
