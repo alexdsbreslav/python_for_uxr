@@ -2,7 +2,7 @@
 Before we do anything, we need to set up your computer with the appropriate applications, accounts, and settings.
 
 ## Download Anaconda :snake:
-<a href="https://www.anaconda.com/distribution/" target="_blank">right-click here</a> to open the Anaconda website in a new tab. When you are there, download Anaconda using the 64-Bit Graphical Installer.
+<a href="https://www.anaconda.com/distribution/" target="_blank">Right-click here</a> to open the Anaconda website in a new tab. When you are there, download Anaconda using the 64-Bit Graphical Installer.
 ### What is Anaconda?
 Anaconda creates a home for coding on your computer. When you open Anaconda Navigator on your computer, it is like opening the Applications tab on your finder. When you want to start coding, you'll open Anaconda Navigator and, from there, start up JupyterLab.
 ### What is JupyterLab?
