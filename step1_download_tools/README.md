@@ -13,7 +13,7 @@ On GitHub, collections of files and folders is a called a repository or **repo**
 
 To copy this repo to your computer:
 1. Go back out to the `python_for_uxr` home page. You can [click here](https://github.com/alexdsbreslav/python_for_uxr) to open the repo home page in another tab. 
-2. Click on the green `Clone or download` button.
+2. Click on the green `Clone` button.
 3. Click `Download ZIP`.
 4. Go to the documents folder on your computer. Double-click on the file `python_for_uxr-master.zip` to unzip it.
 5. Move the file to your desktop.
