@@ -37,5 +37,9 @@ Now it is time to learn the basic vocabulary and grammar that you will need to c
 
 Once you have mastered the basic vocabulary and grammar, you'll come back here to start working with your own data in JupyterLab. **I would recommend completing lessons 1-10; you do not need to complete lessons 11-12**. Lessons 11 and 12 are less relevant for the kinds of code we will be writing.
 
-## [Click here](https://www.codecademy.com/learn/learn-python) to head over to codeacademy to get started!
-Good luck, we'll see you back here soon to start working on your own data! When you do come back, [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step3_python_in_jupyter_notebooks) to see the step 3 instructions online. You can also open up the instructions on your computer by navigating to the `step3_python_in_jupyter_notebooks` folder and opening the `offline_README.pdf`
+## To get started...
+[Click here](https://www.codecademy.com/learn/learn-python) to head over to codeacademy to get started!
+Good luck, we'll see you back here soon to start working on your own data! 
+
+## When you're done...
+[Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step3_python_in_jupyter_notebooks) to see the step 3 instructions online. You can also open up the instructions on your computer by navigating to the `step3_python_in_jupyter_notebooks` folder and opening the `offline_README.pdf`
