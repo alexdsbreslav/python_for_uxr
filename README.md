@@ -16,7 +16,7 @@ No! All of the tools that I will introduce to you in this tutorial are free and 
 ## How long will this take?
 This tutorial is a work in progress. I am developing new material and testing existing material with friends and colleagues. Below I outline the tutorial, as it currently stands, and roughly how long each step will take:
 1. Download the tools you'll need to program and familiarize yourself with how they work **~30 minutes-1 hour**
-2. Learn and practice python basics @ [codeacademy.com](https://www.codecademy.com/learn/learn-python) **~10-20 hours**
+2. Learn and practice Python basics @ [codeacademy.com](https://www.codecademy.com/learn/learn-python) **~10-20 hours**
 3. Learn how to navigate essential tools and resources that you'll need as you learn how to code (Jupyter Notebooks, packages, documentation of packages, error messages etc.) **~30 minutes-1 hour**
 4. Learn how to take your data from a messy raw output to a shiny, clean, data table ready for interpretation and analysis. **~1-4 hours**
 ## Coming Soon...
