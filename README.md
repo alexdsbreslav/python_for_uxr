@@ -10,7 +10,6 @@ In this tutorial, I do my best to keep the language, examples, and documentation
 
 As a researcher, I also actively research my own materials! If you have suggestions, questions, concerns, or sticking points, please let me know @ alexdsbreslav@gmail.com.
 
-# What am I getting myself into?
 ## Does any of this cost any money?
 No! All of the tools that I will introduce to you in this tutorial are free and (mostly) open source.
 ## How long will this take?
@@ -23,5 +22,5 @@ This tutorial is a work in progress. I am developing new material and testing ex
 5. Once your data are clean, you'll want to examine basic descriptive statistics. Learn how to manipulate your data to describe its features (e.g. how many users are in your study? What was the average rating for your product?).
 6. Learn how to visualize your data. Visualization is a key step to understanding the features of your data, as well as communicating your findings in a compelling way to stakeholders. 
 
-# To get started...
+## To get started...
 Head to the folder `step1_download_tools`!
