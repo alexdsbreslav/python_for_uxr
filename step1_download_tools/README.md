@@ -41,7 +41,7 @@ When we code, we utilize packages like pandas and numpy (pronounced numb-pie) to
 
     - Update/type out the line of code above and hit enter:
       - Replace `alexdsbreslav` with the username on your computer.
-      - If you are on a PC the slashes are flipped; rather that `/Users/alexdsbreslav...` your file path would look `\Users\alexdsbreslav`
+      - If you are on a PC the slashes are flipped; rather than `/Users/alexdsbreslav...` your file path would look `\Users\alexdsbreslav`
       - If you put the `python_for_uxr` folder somewhere other than your Documents folder, make sure you specify that in the file path.
       - If you did not change the name of folder to `python_for_uxr` or changed it to something else entirely, make sure you specify that in the file path.
   
