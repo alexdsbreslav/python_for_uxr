@@ -2,7 +2,7 @@
 Before we do anything, we need to set up your computer with the appropriate applications, accounts, and settings.
 
 ## Download Anaconda :snake:
-[Click on this link](https://www.anaconda.com/distribution/) to head to the website. When you are there, download Anaconda using the 64-Bit Graphical Installer.
+<a href="https://www.anaconda.com/distribution/" target="_blank">Click here</a> to open the Anaconda website in a new tab. When you are there, download Anaconda using the 64-Bit Graphical Installer.
 ### What is Anaconda?
 Anaconda creates a home for coding on your computer. When you open Anaconda Navigator on your computer, it is like opening the Applications tab on your finder. When you want to start coding, you'll open Anaconda Navigator and, from there, start up JupyterLab.
 ### What is JupyterLab?
@@ -12,7 +12,7 @@ JupyterLab is the application that you will be doing all of your coding in. Jupy
 On GitHub, collections of files and folders is a called a repository or **repo**. This repo is called `python_for_uxr`. I want you to download this repo on to your computer. When you do, you'll have a perfect copy of everything that is online. 
 
 To copy this repo to your computer:
-1. Go back out to the `python_for_uxr` home page. You can [click here](https://github.com/alexdsbreslav/python_for_uxr) to open the repo home page in another tab. 
+1. Go back out to the `python_for_uxr` home page. You can <a href="https://github.com/alexdsbreslav/python_for_uxr" target="_blank">click here</a> to open the repo home page in another tab. 
 2. Click on the green `Clone` button.
 3. Click `Download ZIP`.
 4. Go to the documents folder on your computer. Double-click on the file `python_for_uxr-master.zip` to unzip it.
