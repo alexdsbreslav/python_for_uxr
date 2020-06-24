@@ -1,4 +1,4 @@
-# Hi! :wave: Welcome to my python tutorial for UX researchers
+# Hi! :wave: Welcome to my Python tutorial for UX researchers.
 
 I believe that the core functions of a user researcher are to design research studies, interact with users, intepret those interactions, and communicate insights to stakeholders. However, many parts of the user research process are hands-on, time consuming, and not reproducible. These day-to-day issues are exacerbated as research scales; when researchers want to ask more people more questions, the execution of the research quickly gets unwieldy. This means that on some projects, researchers may spend the more time cleaning and managing data by hand than anything else.
 
