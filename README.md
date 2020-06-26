@@ -17,7 +17,7 @@ If any of the following apply to you or your team, learning how to code could be
 - I need to (or want to) visualize data to communicate research findings to stakeholders.
 - I have to handle, organize, or clean up data in Excel or Google Sheets.
 - As I work with data, any mistakes I make could lead to more work or potentially misleading results.
-- My company's user research team.
+- My company's user research team i growing.
 - For each project I do, or my team does, there are at least some overlaps in our research process.
 
 This is where Python and Jupyter Notebooks comes in. Python and Jupyter Notebooks are incredibly powerful tools that have the ability to drastically improve your research processes and day-to-day life. **My goal here is to help user researchers get started working with data in Python and Jupyter Notebooks.** 
