@@ -1,9 +1,9 @@
 # Hi! :wave: Welcome to my Python tutorial for UX researchers.
 My name is Alex. I am a soon-to-be-graduating PhD candidate at Duke, cognitive scientist, and quantitative user researcher; you can check out my [LinkedIn here](https://www.linkedin.com/in/alexanderbreslav/). I taught myself how to code during my PhD. As I was learning, I recognized two very important things:
-1. Python and Jupyter Notebooks are absolutely invaluable tools for researchers.
+1. Python and Jupyter Notebooks are invaluable tools for researchers.
 2. Many online Python resources aren't written for researchers; they are hard to understand and frustrating to decipher!
 
-Python and Jupyter Notebooks empower researchers to do better research and save them time. My goal is to provide a jump start for researchers that are interested in learning Python, but have no previous experience coding or doing quantitative data analysis.
+Python and Jupyter Notebooks empower researchers to do better research while saving them time. My goal is to provide a jump start for researchers that are interested in learning Python, but have no previous experience coding or doing quantitative data analysis.
 
 ## How does coding help my research process?
 I believe that the core functions of a user researcher are to design research studies, interact with users, intepret those interactions, and communicate insights to stakeholders. However, many parts of the user research process are hands-on, time consuming, and not reproducible. These day-to-day issues are exacerbated as research scales; when researchers want to ask more people more questions, the execution of the research quickly gets unwieldy. This means that on some projects, researchers may spend the more time cleaning and managing data by hand than anything else.
