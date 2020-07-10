@@ -16,7 +16,7 @@ To copy this repo to your computer:
 2. Click on the green `Clone` button.
 3. Click `Download ZIP`.
 4. Go to the documents folder on your computer. Double-click on the file `python_for_uxr-master.zip` to unzip it.
-5. Move the file to your desktop.
+5. Move the file to your documents folder.
 6. Rename the folder `python_for_uxr`.
 
 ## Set up Anaconda on your computer.
