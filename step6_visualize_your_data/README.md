@@ -14,6 +14,9 @@ While summarizing our data in tables is a great first pass, and can be much fast
 
 Also, once we've pulled the key insights from our data, tables are a terrible way to communicate ideas to stakeholders. Data visualizations are the most powerful way to communicate key insight from data. Good visualization will help convince stakeholders that your insights are valuable because you'll be able to show them **patterns that they can plainly see in the data.**
 
+## How you are going to visualize your data
+People have very strong opinions about what packages are best for data visualization and there are a lot of them - matplotlib, seaborn, plotly, bokeh etc. - and they all have their strengths and weaknesses. Here I am going to teach you how to use quicklook. [quicklook](https://github.com/alexdsbreslav/quicklook) is a data visualization package that I built to try and make simple data visualization faster and easier to learn - it's all copy-and-paste! It is very restricted in what it can do (there are only 8 main functions!); however, I have found that I can use those 8 functions to meet 95% of my data visualization needs.
+
 ## To get started...
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
 1. Open Anaconda.
