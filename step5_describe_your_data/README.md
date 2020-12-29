@@ -9,7 +9,7 @@ Now that you have clean data, it is time to start examining it to see what insig
 
 :warning: I want to urge patience at this moment! :warning: 
 
-It can be hard to not just jump right into the exciting parts: running correlations, t-tests, chi-square tests, or regressions to test every hunch or hypotheses you have about our data.  There are countless examples in statistics textbooks, Medium articles, and wherever people talk about data analysis about why jumping into statistical testing too early can mislead you!
+It can be hard to not just jump right into the exciting parts: running correlations, t-tests, chi-square tests, or regressions to test every hunch or hypotheses you have about our data.  There are countless examples in statistics textbooks, Medium articles about data science, and wherever people talk about data analysis about why jumping into statistical testing too early can mislead you!
 
 The rule of thumb that I live by is...
 
