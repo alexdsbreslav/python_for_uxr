@@ -19,8 +19,8 @@ People have very strong opinions about what packages are best for data visualiza
 
 ## Prerequisites
 I recommend taking 5 minutes to reach through the basic documentation of quicklook to understand how it works.
-[Right click here](https://github.com/alexdsbreslav/quicklook/tree/master/how_to_use_quicklook#how-to-use-quicklook) to open `how to use quicklook` in a new tab
-[Right click here](https://github.com/alexdsbreslav/quicklook/blob/master/how_to_use_quicklook/copy_and_paste_quicklook_code.md) to open `tips for using quicklook in Jupyter Notebooks`
+- [Right click here](https://github.com/alexdsbreslav/quicklook/tree/master/how_to_use_quicklook#how-to-use-quicklook) to open `how to use quicklook` in a new tab
+- [Right click here](https://github.com/alexdsbreslav/quicklook/blob/master/how_to_use_quicklook/copy_and_paste_quicklook_code.md) to open `tips for using quicklook in Jupyter Notebooks`
 
 ## To get started...
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
