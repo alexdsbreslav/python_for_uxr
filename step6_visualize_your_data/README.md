@@ -17,6 +17,11 @@ Also, once we've pulled the key insights from our data, tables are a terrible wa
 ## How you are going to visualize your data
 People have very strong opinions about what packages are best for data visualization and there are a lot of them - matplotlib, seaborn, plotly, bokeh etc. - and they all have their strengths and weaknesses. Here I am going to teach you how to use quicklook. [quicklook](https://github.com/alexdsbreslav/quicklook) is a data visualization package that I built to try and make simple data visualization faster and easier to learn - it's all copy-and-paste! It is very restricted in what it can do (there are only 8 main functions!); however, I have found that I can use those 8 functions to meet 95% of my data visualization needs.
 
+## Prerequisites
+I recommend taking 5 minutes to reach through the basic documentation of quicklook to understand how it works.
+[Right click here](https://github.com/alexdsbreslav/quicklook/tree/master/how_to_use_quicklook#how-to-use-quicklook) to open `how to use quicklook` in a new tab
+[Right click here](https://github.com/alexdsbreslav/quicklook/blob/master/how_to_use_quicklook/copy_and_paste_quicklook_code.md) to open `tips for using quicklook in Jupyter Notebooks`
+
 ## To get started...
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
 1. Open Anaconda.
