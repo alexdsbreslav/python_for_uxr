@@ -19,8 +19,10 @@ So to understand our data, we don't want to blindly run statistical tests! Rathe
 
 **we want to use functions that summarize and describe the features of our data to determine if interesting patterns exist.**
 
-## Prerequisite
-Before starting this section, it is important to have a basic understanding of data types (e.g. categorical vs. continuous) and how different data types should can summarized. [Right-click here](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) to open to brief tutorial on data types in a new tab.
+## Prerequisites
+Before starting this section, it is important to have a basic understanding of data types (e.g. categorical vs. continuous) and descriptive statistics (e.g. mean, median, standard deviation, IQR). Even if these terms are familiar to you, I strongly recommend taking 15 minutes to read through these two articles as a refresher.
+- [Right-click here](https://towardsdatascience.com/data-types-in-statistics-347e152e8bee) to open to brief tutorial on **data types** in a new tab.
+- [Right-click here](https://towardsdatascience.com/descriptive-statistics-f2beeaf7a8df) to open to brief tutorial on **descriptive statistics** in a new tab.
 
 ## To get started...
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
