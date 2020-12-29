@@ -1,4 +1,4 @@
-# Step 6: Vizualize Your Data
+# Step 6: Visualize Your Data
 Now the data is clean and you've begun to understand the nuances of your dataset.  At this point you should have completed the following sections:
 - Step 1: Download Tools :white_check_mark:
 - Step 2: Learn Python Basics :white_check_mark:
@@ -18,7 +18,7 @@ Also, once we've pulled the key insights from our data, tables are a terrible wa
 You want to open the workbook in JupyterLab. To open the workbook in JupyterLab:
 1. Open Anaconda.
 2. Open JupyterLab.
-3. Use the file navigator on the left to find the `step6_workbook.ipynb` in the `step6_vizualize_your_data` folder.
+3. Use the file navigator on the left to find the `step6_workbook.ipynb` in the `step6_visualize_your_data` folder.
 4. When you open the workbook file, you may see a pop-up that says "Select Kernel". A **kernel** is your coding environment. You should select `python_for_uxr_env`. This is the coding environment that you set up in Step 1.
 
 ## When you're done...
