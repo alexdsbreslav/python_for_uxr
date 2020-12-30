@@ -29,12 +29,12 @@ This is where Python and Jupyter Notebooks comes in. Python and Jupyter Notebook
 No! All of the tools that I will introduce to you in this tutorial are free and (mostly) open source.
 ### How long will this take?
 This tutorial is a work in progress. I am developing new material and testing existing material with friends and colleagues. Below I outline the tutorial, as it currently stands, and roughly how long each step will take:
-1. Download the tools you'll need to program and familiarize yourself with how they work. **~30 minutes-1 hour**
-2. Learn and practice Python basics @ [codeacademy.com](https://www.codecademy.com/learn/learn-python). **~10-20 hours**
-3. Learn how to navigate essential tools and resources that you'll need as you learn how to code (Jupyter Notebooks, packages, documentation of packages, error messages etc.) **~30 minutes-1 hour**
-4. Learn how to take messy raw data to a clean data table that is ready for interpretation and analysis. **~2-4 hours**
-5. Once your data are clean, you'll want to examine basic descriptive statistics. Learn how to manipulate your data to understand its features (e.g. how many users are in your study? What was the average rating for your product?). **~30 minutes-1 hour**
-6. Learn how to visualize your data. Visualization is a key step to understanding the features of your data, as well as communicating your findings in a compelling way to stakeholders. **~30 minutes-1 hour**
+1. **Download the tools** you'll need to program and familiarize yourself with how they work. **~30 minutes-1 hour**
+2. Learn and practice **Python basics** @ [codeacademy.com](https://www.codecademy.com/learn/learn-python). **~10-20 hours**
+3. Learn how to navigate **essential tools and resources** that you'll need as you learn how to code (Jupyter Notebooks, packages, documentation of packages, error messages etc.) **~30 minutes-1 hour**
+4. Learn how to take messy raw data to a **clean data** table that is ready for interpretation and analysis. **~2-4 hours**
+5. Once your data are clean, you'll want to **examine basic descriptive statistics**. Learn how to manipulate your data to understand its features (e.g. how many users are in your study? What was the average rating for your product?). **~30 minutes-1 hour**
+6. Learn how to **visualize your data**. Visualization is a key step to understanding the features of your data, as well as communicating your findings in a compelling way to stakeholders. **~30 minutes-1 hour**
 
 ## To get started...
 [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step1_download_tools) to go to the step 1 instructions.
