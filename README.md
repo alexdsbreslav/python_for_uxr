@@ -20,10 +20,10 @@ If any of the following apply to you or your team, learning how to code could be
 
 This is where Python and Jupyter Notebooks comes in. Python and Jupyter Notebooks are incredibly powerful tools that will improve your research processes and day-to-day life. **My goal here is to help user researchers get started working with data in Python and Jupyter Notebooks.** 
 
-## What is in this tutorial? Does this tutorial make sense for me?
+## Does this tutorial make sense for me?
 **This tutorial is designed for researchers**. I am a researcher that was in your shoes not too long ago. I was looking for material online that could help me learn how to code in order to do my research more efficiently. Here, I'll show you the tiny slice of Python that is going to make the biggest difference for your research. 
 
-**I remember how confusing coding concepts were when I was first learning**; I do my best to keep the language, examples, and documentation accessible. I assume that you have zero experience with programmming or quantitative data analysis. I expect that, currently, if you wanted to clean, manipulate, describe, or visualize data that you would use Excel, Google Sheets, or other similar tools.
+**I assume that you have little or no experience with programmming or quantitative data analysis.** I remember how confusing coding concepts were when I was first learning; I do my best to keep the language, examples, and documentation accessible. I expect that, currently, if you wanted to clean, manipulate, describe, or visualize data that you would use Excel, Google Sheets, or other similar tools.
 
 ### Does any of this cost any money?
 No! All of the tools that I will introduce to you in this tutorial are free and (mostly) open source.
