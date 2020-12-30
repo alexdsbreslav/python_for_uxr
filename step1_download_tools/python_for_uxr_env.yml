@@ -10,4 +10,6 @@ dependencies:
   - scipy
   - pytables
   - openpyxl
-  - xlrd
+
+  - pip:
+    - git+git://github.com/alexdsbreslav/quicklook.git
