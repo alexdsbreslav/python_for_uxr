@@ -37,6 +37,3 @@ No! All of the tools that I will introduce to you in this tutorial are free and 
 
 ## To get started...
 [Click here](https://github.com/alexdsbreslav/python_for_uxr/tree/master/step1_download_tools) to go to the step 1 instructions.
-
-## Please reach out!
-As a researcher, I also actively research my own materials! If you have suggestions, questions, concerns, or sticking points, please file an issue on GitHub [here](https://github.com/alexdsbreslav/python_for_uxr/issues) or let me know @ alexdsbreslav@gmail.com.
